@@ -1,0 +1,14 @@
+{
+  "name": "9c2d851005ce3207",
+  "main": "9c2d851005ce3207@97.js",
+  "version": "97.0.0",
+  "homepage": "https://observablehq.com/d/9c2d851005ce3207",
+  "author": {
+    "name": "林昕昱's Workspace",
+    "url": "https://observablehq.com/@lin-xin-yu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
