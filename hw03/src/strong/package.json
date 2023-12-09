@@ -1,0 +1,14 @@
+{
+  "name": "817e44d54f06ed58",
+  "main": "817e44d54f06ed58@65.js",
+  "version": "65.0.0",
+  "homepage": "https://observablehq.com/d/817e44d54f06ed58",
+  "author": {
+    "name": "林昕昱's Workspace",
+    "url": "https://observablehq.com/@lin-xin-yu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
